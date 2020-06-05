@@ -19,7 +19,7 @@ In this article, we describe <strong>How to download the DirectX Offline Install
  	<li><a href="#4">Download the DirectX Offline Installer</a></li>
  	<li><a href="#5">Summary</a></li>
 </ul>
-<h2 id="1"> DirectX:</h2>
+<h2 id="1">DirectX:</h2>
 It is a collection of<strong> Application Programming Interfaces</strong> (APIs) for enhancing multimedia. It has several<strong> multimedia APIs</strong> released by Microsoft in the name of <strong>Direct</strong> such as<strong> Direct 2D, Direct 3D, DirectSound, DirectWrite, DXGI, DirectInput, DirectPlay, DirectMusic</strong> and so on. Later on, Microsoft released all these APIs collections in just one package called<strong> DirectX.</strong>
 <h2 id="2">Get the Version of DirectX:</h2>
 <ul>
