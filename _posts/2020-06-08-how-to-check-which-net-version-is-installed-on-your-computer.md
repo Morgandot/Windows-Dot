@@ -17,8 +17,8 @@ In this article, we will give some tips <strong>to check which .Net Version is i
  	<li><a href="#2">Conclusion</a></li>
 </ul>
 <h2 id="1">Check which .Net Version is installed on your computer:</h2>
-<h3>Method 1: By using the <span id="1-_Using_Windows_directory">Windows directory</span></h3>
-Follow the below steps to check which .Net Version is installed on your computer using the <span id="1-_Using_Windows_directory">Windows directory.</span>
+<h3>Method 1: By using the Windows directory</h3>
+Follow the below steps to check which .Net Version is installed on your computer using the Windows directory.
 <ul>
  	<li>Go to the <strong>Start Menu.</strong></li>
  	<li>Then in the search column, type as <strong>Command Prompt.</strong></li>
@@ -42,8 +42,8 @@ Follow the below steps to check which .Net Version is installed on your computer
 <pre><code>dir %windir%\Microsoft.NET\Framework /AD
 cd %windir%\Microsoft.NET\Framework\v4.0.30319
 .\MSBuild.exe -version</code></pre>
-<h3>Method 2: By using the <span id="1-_Using_Windows_directory">WMIC</span></h3>
-Follow the below steps to check which .Net Version is installed on your computer using the WMIC command<span id="1-_Using_Windows_directory">.</span>
+<h3>Method 2: By using the WMIC</h3>
+Follow the below steps to check which .Net Version is installed on your computer using WMIC command.
 <ul>
  	<li>List down the default .NET Framework being used by the system by using the <strong>WMIC command,</strong> which is given below.</li>
 </ul>
