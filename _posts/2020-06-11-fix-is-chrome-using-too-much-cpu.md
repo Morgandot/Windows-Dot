@@ -5,7 +5,7 @@ author: Olivia
 post_excerpt: ""
 layout: post
 permalink: >
-  https://windowsdot.com/is-chrome-using-too-much-cpu/
+  https://windowsdot.com/fix-is-chrome-using-too-much-cpu/
 published: true
 post_date: 2020-06-11 09:28:39
 ---
