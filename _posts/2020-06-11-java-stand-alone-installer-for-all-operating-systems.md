@@ -12,7 +12,7 @@ published: true
 post_date: 2020-06-11 03:00:32
 ---
 In this tutorial, we explain<strong> how to download the latest Java Offline Installers for all Operating Systems</strong> in simple steps.
-<ul>
+<ul class="toc">
  	<li><a href="#1">JRE and JDK</a></li>
  	<li><a href="#2">If already Java installed on this computer?</a></li>
  	<li><a href="#3">Update Java</a></li>
