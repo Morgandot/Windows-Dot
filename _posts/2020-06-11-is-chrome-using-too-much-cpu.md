@@ -18,7 +18,7 @@ In this article, we explain <strong>Is Chrome using too much CPU </strong>in si
  	<li><a href="#5">Nothing Works</a></li>
  	<li><a href="#6">Closure</a></li>
 </ul>
-<h2>Check Chrome processor usage:</h2>
+<h2 id="1">Check Chrome processor usage:</h2>
 <ul>
  	<li>Check when <strong>Chrome</strong> is using 100% processor time.</li>
  	<li><strong>Wise System Monitor</strong> displays quick info about real-time network download/upload speed, RAM usage, and CPU usage as well we CPU operating temperature.</li>
@@ -29,7 +29,7 @@ In this article, we explain <strong>Is Chrome using too much CPU </strong>in si
 [caption id="attachment_901" align="aligncenter" width="788"]<img class="wp-image-901 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_1-13.png" alt="Wise System Monitor" width="788" height="626" /> Wise System Monitor[/caption]
 
 <strong>Image Source: </strong><em>itechtics.com</em>
-<h2>Symptoms:</h2>
+<h2 id="2">Symptoms:</h2>
 Follow the below steps to know <strong>Symptoms of high CPU usage.</strong>
 <ul>
  	<li>Firstly, the mouse starts lagging.</li>
@@ -38,7 +38,7 @@ Follow the below steps to know <strong>Symptoms of high CPU usage.</strong>
  	<li>It starts draining quickly laptops battery.</li>
  	<li>It starts getting hot and noisy on the laptop.</li>
 </ul>
-<h2>Reasons behind why Chrome uses so much of the CPU:</h2>
+<h2 id="3">Reasons behind why Chrome uses so much of the CPU:</h2>
 Here, the few reasons are listed below to avoid these reasons to keep your <strong>Chrome browser</strong> in a healthy condition in the long run.
 <ul>
  	<li>Too many tabs or windows open at the same time.</li>
@@ -46,7 +46,7 @@ Here, the few reasons are listed below to avoid these reasons to keep your <str
  	<li>Malware can also affect Chrome processor usage.</li>
 </ul>
 But Chrome comes with a<strong> software reporter tool</strong> for scanning for malware affecting the browser. Sometimes the software reporter tool can also use a lot of CPU power. When you attain this case then you can <strong>disable the software reporter tool.</strong>
-<h2><strong>To Fix Chrome high CPU usage:</strong></h2>
+<h2 id="4"><strong>To Fix Chrome high CPU usage:</strong></h2>
 In the two ways, we can fix chrome high CPU usage.
 <ol>
  	<li>Chrome is running</li>
@@ -89,7 +89,7 @@ When you have opened Google Chrome and it is taking a lot of CPU resources, you 
 [caption id="attachment_904" align="aligncenter" width="807"]<img class="wp-image-904 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_4-9.png" alt="Disable background tasks in Chrome" width="807" height="414" /> Disable background tasks in Chrome[/caption]
 
 <strong>Image Source: </strong><em>itechtics.com</em>
-<h2>Nothing Works:</h2>
+<h2 id="5">Nothing Works:</h2>
 The users are able to fix their Chrome high CPU usage following the instructions given above but if you have tried everything but still Chrome is taking high CPU power, you should consider the tasks below.
 <p id="10-clear-cache-completely"><strong>Clear Cache completely</strong></p>
 The scripts and functionalities of open websites also add to the overall CPU usage.
@@ -156,5 +156,5 @@ If nothing is working and you want Chrome to not interfere with other processes.
 [caption id="attachment_909" align="aligncenter" width="806"]<img class="wp-image-909 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_8-3.png" alt="To set the affinity" width="806" height="567" /> To set the affinity[/caption]
 
 <strong>Image Source:</strong> <em>itechtics.com</em>
-<h2>Closure:</h2>
+<h2 id="6">Closure:</h2>
 Hoping that the above article will help you to know  <strong>Is Chrome using too much CPU</strong><strong>.</strong> If you have any <strong>doubts,</strong> please kindly share in the below <strong>comment section</strong> and leave your <strong>valuable feedback.</strong>
