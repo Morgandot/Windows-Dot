@@ -18,7 +18,6 @@ In this article, we explain <strong>Is Chrome using too much CPU </strong>in si
  	<li><a href="#5">Nothing Works</a></li>
  	<li><a href="#6">Closure</a></li>
 </ul>
-<strong>Chrome</strong> is quite stable and it performs well under normal circumstances, there are times when it starts behaving oddly like taking too many computer resources including<strong> hard drive, CPU, and RAM.</strong>
 <h2>Check Chrome processor usage:</h2>
 <ul>
  	<li>Check when <strong>Chrome</strong> is using 100% processor time.</li>
