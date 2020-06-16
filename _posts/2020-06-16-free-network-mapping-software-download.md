@@ -13,7 +13,8 @@ In this article, you will learn <strong>How to Download Free Network Mapping Sof
 <ul class="toc">
  	<li><a href="#1">Choose the best Network Mapping Tool - How?</a></li>
  	<li><a href="#2">Free Network Mapping Software</a></li>
- 	<li><a href="#3">Conclusion</a></li>
+ 	<li><a href="#3">Paid Network Mapping Software</a></li>
+ 	<li><a href="#4">Conclusion</a></li>
 </ul>
 <h2 id="1">Choose the best Network Mapping Tool - How?</h2>
 Follow the below ones to gather an idea of what to look for without the need of setting up a VM and try each tool yourself.
@@ -81,6 +82,47 @@ Here some free tools for <strong>Network Mapping Software</strong> are listed be
 <ul>
  	<li>The below link is to <strong>download NMap.</strong></li>
  	<li>Download <a href="https://nmap.org/download.html"><strong>NMap</strong> </a>here.</li>
+</ul>
+<h2>Paid Network Mapping Software:</h2>
+Here some paid tools for <strong>Network Mapping Software</strong> are listed below.
+<ol>
+ 	<li>PRTG Network Monitor</li>
+ 	<li>Device42</li>
+ 	<li>Intermapper</li>
+</ol>
+<strong>PRTG Network Monitor:</strong>
+<ul>
+ 	<li>It is a <strong>robust</strong> monitoring and mapping solution.</li>
+ 	<li>This software has a <strong>few hundred sensors</strong> that allow you to monitor and map different aspects of your network.</li>
+ 	<li>PRTG Network is an excellent value with a <strong>500 sensors license</strong> and a one-year maintenance contract.</li>
+</ul>
+<strong>Link to Purchase PRTG Network:</strong>
+<ul>
+ 	<li>Purchase the <a href="https://www.paessler.com/prtg/download"><strong>PRTG Network</strong> </a>here.</li>
+ 	<li><strong>Pricing</strong> for <strong>PRTG Network</strong> is given in the below screenshot.
+
+[caption id="attachment_1100" align="aligncenter" width="1234"]<img class="wp-image-1100 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_13.png" alt="Pricing" width="1234" height="420" /> Pricing[/caption]</li>
+ 	<li>You can purchase it as per your choice.</li>
+</ul>
+<strong>Device42:</strong>
+<ul>
+ 	<li>It is an agentless <strong>auto-discovery.</strong></li>
+ 	<li>It <strong>manages</strong> your Data Center information (DCIM), IP addresses (IPAM), and password as well as ITAM and CDMB.</li>
+</ul>
+<strong>Link to Purchase Device42:</strong>
+<ul>
+ 	<li>Purchase the <a href="https://www.device42.com/features/"><strong>Device42 Network</strong></a> here.
+
+[caption id="attachment_1101" align="aligncenter" width="1275"]<img class="wp-image-1101 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_5-15.png" alt="Device42" width="1275" height="520" /> Device42[/caption]</li>
+</ul>
+<strong>Intermapper:</strong>
+<ul>
+ 	<li>It provides<strong> real-time and dynamic</strong> visualization of your network.</li>
+ 	<li><strong>Automatically</strong> detect your network and create maps with all of your devices.</li>
+</ul>
+<strong>Link to Purchase Intermapper:</strong>
+<ul>
+ 	<li>Purchase the <a href="https://www.helpsystems.com/cta/intermapper-free-version"><strong>Intermapper</strong> </a>here.</li>
 </ul>
 <h2 id="3">Conclusion:</h2>
 The simple steps illustrated in this article let you know <strong>How to Download Free Network Mapping Software</strong>. We hope that this method helped you in the right way. Your <strong>comments</strong> are highly welcomed, drop it in the below section!!
