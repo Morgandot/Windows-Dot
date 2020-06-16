@@ -122,7 +122,9 @@ Here some paid tools for <strong>Network Mapping Software</strong> are listed be
 </ul>
 <strong>Link to Purchase Intermapper:</strong>
 <ul>
- 	<li>Purchase the <a href="https://www.helpsystems.com/cta/intermapper-free-version"><strong>Intermapper</strong> </a>here.</li>
+ 	<li>Purchase the <a href="https://www.helpsystems.com/cta/intermapper-free-version"><strong>Intermapper</strong> </a>here.
+
+[caption id="attachment_1104" align="aligncenter" width="1366"]<img class="size-full wp-image-1104" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot-1.png" alt="Intermapper" width="1366" height="768" /> Intermapper[/caption]</li>
 </ul>
 <h2 id="3">Conclusion:</h2>
 The simple steps illustrated in this article let you know <strong>How to Download Free Network Mapping Software</strong>. We hope that this method helped you in the right way. Your <strong>comments</strong> are highly welcomed, drop it in the below section!!
