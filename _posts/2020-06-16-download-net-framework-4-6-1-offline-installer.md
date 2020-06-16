@@ -72,4 +72,4 @@ The following includes some other fixes and improvements.
  	<li>That's all.</li>
 </ul>
 <h2 id="4">Closure:</h2>
-In the above article, you can get a piece of brief information on <strong>how to download .Net Framework 4.6.1 Offline Installer</strong>  Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
+In the above article, you can get a piece of brief information on <strong>how to download .Net Framework 4.6.1 Offline Installer.</strong> Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
