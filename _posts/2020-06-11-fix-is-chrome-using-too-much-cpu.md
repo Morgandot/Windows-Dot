@@ -29,8 +29,6 @@ In this article, we explain <strong>Is Chrome using too much CPU </strong>in si
  	<li>It has a drawback, you will need to keep it open all the time to keep an eye on the<strong> system resources usage.</strong></li>
 </ul>
 [caption id="attachment_901" align="aligncenter" width="788"]<img class="wp-image-901 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_1-13.png" alt="Wise System Monitor" width="788" height="626" /> Wise System Monitor[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <h2 id="2">Symptoms:</h2>
 Follow the below steps to know <strong>Symptoms of high CPU usage.</strong>
 <ul>
@@ -65,8 +63,6 @@ When you have opened Google Chrome and it is taking a lot of CPU resources, you 
  	<li>Now, Select the<strong> Chrome sub-process</strong> and click <strong>End Process.</strong></li>
 </ul>
 [caption id="attachment_902" align="aligncenter" width="798"]<img class="wp-image-902 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_2-12.png" alt="Chrome Task Manager" width="798" height="387" /> Chrome Task Manager[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <p id="6-disable-chrome-extensions"><strong>Disable Chrome extensions</strong></p>
 
 <ul>
@@ -79,8 +75,6 @@ When you have opened Google Chrome and it is taking a lot of CPU resources, you 
  	<li>Now, toggle the problematic extension to disable and remove it by pressing the <strong>Remove button.</strong></li>
 </ul>
 [caption id="attachment_903" align="aligncenter" width="806"]<img class="wp-image-903 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_3-13.png" alt="Disable Chrome extensions" width="806" height="267" /> Disable Chrome extensions[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <h3>Chrome is not running:</h3>
 <ul>
  	<li>To disable background tasks in Chrome, Go to <strong>Chrome Menu.</strong></li>
@@ -89,8 +83,6 @@ When you have opened Google Chrome and it is taking a lot of CPU resources, you 
  	<li>It will help to kill all the processes started by Chrome when you close the browser.</li>
 </ul>
 [caption id="attachment_904" align="aligncenter" width="807"]<img class="wp-image-904 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_4-9.png" alt="Disable background tasks in Chrome" width="807" height="414" /> Disable background tasks in Chrome[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <h2 id="5">Nothing Works:</h2>
 The users are able to fix their Chrome high CPU usage following the instructions given above but if you have tried everything but still Chrome is taking high CPU power, you should consider the tasks below.
 <p id="10-clear-cache-completely"><strong>Clear Cache completely</strong></p>
@@ -101,8 +93,6 @@ The scripts and functionalities of open websites also add to the overall CPU usa
  	<li><strong>Check-in</strong> all items in Advanced option and press<strong> Clear data.</strong></li>
 </ul>
 [caption id="attachment_905" align="aligncenter" width="804"]<img class="wp-image-905 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_5-8.png" alt="Clear Cache completely" width="804" height="595" /> Clear Cache completely[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <p id="11-disable-all-apps-and-extensions"><strong>Disable all apps and extensions</strong></p>
 The multiple extensions are causing Chrome to use lots of resources, and you are unable to identify them. I would also recommend disabling apps in addition to the extensions.
 <ul>
@@ -120,8 +110,6 @@ The last step is to reset Chrome when nothing works.
  	<li>Finally, click the<strong> Reset settings</strong> button to start the process.</li>
 </ul>
 [caption id="attachment_906" align="aligncenter" width="794"]<img class="wp-image-906 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_6-7.png" alt="Reset Chrome settings" width="794" height="463" /> Reset Chrome settings[/caption]
-
-<strong>Image Source: </strong><em>itechtics.com</em>
 <p id="13-reinstall-chrome"><strong>Reinstall Chrome</strong></p>
 
 <ul>
@@ -146,8 +134,6 @@ If nothing is working and you want Chrome to not interfere with other processes.
  	<li>Select priority to <strong>Below Normal</strong> or <strong>Low</strong>.</li>
 </ol>
 [caption id="attachment_908" align="aligncenter" width="808"]<img class="wp-image-908 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_7-5.png" alt="To set the browser priority" width="808" height="498" /> To set the browser priority[/caption]
-
-<strong>Image Source:</strong> <em>itechtics.com</em>
 
 <strong>Set the browser process affinity to limited CPU cores:</strong>
 <ol>
