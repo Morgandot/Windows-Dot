@@ -71,7 +71,7 @@ Download <strong><a href="https://heimdalsecurity.com/en/get-heimdal">Heimdal Ag
 Download <a href="http://www.secpod.com/spsaner/SpSanerFree.exe"><strong>SecPod Saner Personal </strong></a>updater here.
 
 [caption id="attachment_1110" align="aligncenter" width="1243"]<img class="size-full wp-image-1110" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_3-22.png" alt="SecPod Saner Personal" width="1243" height="539" /> SecPod Saner Personal[/caption]
-<h2 id="'3&quot;">The other software updaters:</h2>
+<h2 id="3">The other software updaters:</h2>
 A lot of other software updater programs and services which will scan and detect installed software. If you are just interested in updating software and not check for system vulnerabilities.
 
 Here, some<strong> software updater programs</strong> are listed below.
