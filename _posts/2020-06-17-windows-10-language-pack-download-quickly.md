@@ -13,8 +13,8 @@ In this article, we illustrate an outline of <strong>How to Download Language Pa
 <ul class="toc">
  	<li><a href="#1">Install Language Pack on Windows 10 using Settings</a></li>
  	<li><a href="#2">Change the language on Windows 10</a></li>
- 	<li><a href="#2">How to change the keyboard input language in Windows 10?</a></li>
- 	<li><a href="#3">Closure</a></li>
+ 	<li><a href="#3">How to change the keyboard input language in Windows 10?</a></li>
+ 	<li><a href="#4">Closure</a></li>
 </ul>
 <h2 id="1">Install Language Pack on Windows 10 using Settings:</h2>
 Follow the steps to Install Language Pack on Windows 10 using Settings using simple ways.
