@@ -37,9 +37,7 @@ Use the steps to Update Device Drivers using Driver Easy.
  	<li>Please click the link to download and install the <a href="https://www.drivereasy.com/DriverEasy_Setup.exe"><strong>Driver Easy with one-year free license key</strong></a></li>
  	<li>Now, <strong>run</strong> the program and press the <strong><strong>Scan Now button.</strong></strong>
 
-[caption id="attachment_829" align="aligncenter" width="1039"]<img class="wp-image-829 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_3-11.png" alt="Scan" width="1039" height="691" /> Scan[/caption]
-
-<strong>Image source:</strong> <em>itechtics.com</em></li>
+[caption id="attachment_829" align="aligncenter" width="1039"]<img class="wp-image-829 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_3-11.png" alt="Scan" width="1039" height="691" /> Scan[/caption]</li>
  	<li>Then, if any updates are available, Driver Easy will list down the updates in the <strong>Update</strong> section.</li>
 </ol>
 <strong>Note:</strong> To backup your currently installed device drivers before installing the new ones and also keep your system fresh by removing old drivers.
@@ -55,18 +53,15 @@ Follow the below simple steps to reinstall an audio device.
  	<li>After the completion of uninstalling, under the <strong>Action</strong> menu, select Scan for hardware changes.</li>
  	<li>Now it will automatically detect the audio device <strong>again</strong> and <strong>install</strong> its drivers.
 
-[caption id="attachment_827" align="aligncenter" width="402"]<img class="wp-image-827 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_1-10.png" alt="Device Manager" width="402" height="268" /> Device Manager[/caption]
-
-<strong>Image source:</strong> <em>itechtics.com</em></li>
+[caption id="attachment_827" align="aligncenter" width="402"]<img class="wp-image-827 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_1-10.png" alt="Device Manager" width="402" height="268" /> Device Manager[/caption]</li>
  	<li>Then, the changes should take effect immediately but if you still see the red cross on the volume icon, you should either restart your computer or at least the sound service.</li>
  	<li>Again go to the <strong>Run Command Dialog box.</strong></li>
  	<li>Type as <strong>services.msc</strong><strong> </strong>in the given space of open and click OK.</li>
  	<li>Now, look for the services having <strong>audio or sound options</strong> and try starting or restarting them.
 
-[caption id="attachment_828" align="aligncenter" width="372"]<img class="wp-image-828 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_2-10.png" alt="Device Manager" width="372" height="247" /> Services[/caption]
-
-<strong>Image source:</strong> <em>itechtics.com</em></li>
+[caption id="attachment_828" align="aligncenter" width="372"]<img class="wp-image-828 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_2-10.png" alt="Device Manager" width="372" height="247" /> Services[/caption]</li>
  	<li>That's all.</li>
 </ol>
+<strong>Image source:</strong> <em>itechtics.com</em>
 <h2 id="4">Conclusion:</h2>
 Hoping that the above article will help you to <strong>Fix No Audio Output Device Is Installed Error on Windows.</strong> If you have any <strong>doubts,</strong> please kindly share in the below <strong>comment section</strong> and leave your <strong>valuable feedback.</strong>
