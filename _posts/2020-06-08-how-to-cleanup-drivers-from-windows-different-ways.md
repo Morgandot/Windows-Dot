@@ -41,6 +41,8 @@ Follow the below steps to cleanup drivers using Device Manager.
 <h2 id="3">Cleanup using Storage Sense or Disk Cleanup:</h2>
 Use the steps to cleanup drivers using Storage Sense or Disk Cleanup.
 <ol>
+ 	<li style="list-style-type: none;">
+<ol>
  	<li>Click the <strong>Windows + I</strong> to open the<strong><strong> Windows Settings.</strong></strong>
 
 [caption id="attachment_754" align="aligncenter" width="1100"]<img class="wp-image-754 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_4-4.png" alt="Windows Settings" width="1100" height="711" /> Windows Settings[/caption]</li>
@@ -53,6 +55,10 @@ Use the steps to cleanup drivers using Storage Sense or Disk Cleanup.
 [caption id="attachment_757" align="aligncenter" width="786"]<img class="wp-image-757 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_6-4.png" alt="Freeup space" width="786" height="422" /> Free up space[/caption]
 
 <strong>Image Source:</strong><em> itechtics.com</em></li>
+</ol>
+</li>
+</ol>
+<ol>
  	<li>It will automatically <strong>scan</strong> for unnecessary files including the device driver packages.
 
 [caption id="attachment_758" align="aligncenter" width="781"]<img class="wp-image-758 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_7-2.png" alt="Scan" width="781" height="468" /> Scan[/caption]
