@@ -133,18 +133,18 @@ If nothing is working and you want Chrome to not interfere with other processes.
 <ol>
  	<li>Go to<strong> Windows Task Manager.</strong></li>
  	<li>Right-click the <strong>Chrome.exe</strong> process which is causing high CPU usage in the <strong>Details</strong> tab.</li>
- 	<li>Select priority to <strong>Below Normal</strong> or <strong>Low</strong>.</li>
-</ol>
-[caption id="attachment_908" align="aligncenter" width="808"]<img class="wp-image-908 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_7-5.png" alt="To set the browser priority" width="808" height="498" /> To set the browser priority[/caption]
+ 	<li>Select priority to <strong>Below Normal</strong> or <strong>Low</strong>.
 
+[caption id="attachment_1203" align="aligncenter" width="807"]<img class="size-full wp-image-1203" src="https://windowsdot.com/wp-content/uploads/2020/06/chrome_FAjMB9wuu7.png" alt="To set the browser priority" width="807" height="497" /> To set the browser priority[/caption]</li>
+</ol>
 <strong>Set the browser process affinity to limited CPU cores:</strong>
 <ol>
  	<li>Go to <strong>Windows Task Manager</strong> and <strong>Details</strong>.</li>
  	<li>Right-click <strong>Chrome.exe process</strong> and select<strong> Set affinity.</strong></li>
- 	<li>Select the <strong>cores</strong> you can assign to this specific process.</li>
-</ol>
-[caption id="attachment_909" align="aligncenter" width="806"]<img class="wp-image-909 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_8-3.png" alt="To set the affinity" width="806" height="567" /> To set the affinity[/caption]
+ 	<li>Select the <strong>cores</strong> you can assign to this specific process.
 
+[caption id="attachment_1202" align="aligncenter" width="804"]<img class="size-full wp-image-1202" src="https://windowsdot.com/wp-content/uploads/2020/06/chrome_xjPtlXUysh.png" alt="To set the affinity" width="804" height="562" /> To set the affinity[/caption]</li>
+</ol>
 <strong>Image Source:</strong> <em>itechtics.com</em>
 <h2 id="6">Closure:</h2>
 Hoping that the above article will help you to know  <strong>Is Chrome using too much CPU</strong><strong>.</strong> If you have any <strong>doubts,</strong> please kindly share in the below <strong>comment section</strong> and leave your <strong>valuable feedback.</strong>
