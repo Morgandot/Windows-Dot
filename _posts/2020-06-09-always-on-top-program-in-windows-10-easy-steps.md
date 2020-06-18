@@ -87,8 +87,10 @@ Follow the below steps to download OnTopReplica simple ways.
 </ol>
 <h2 id="8">AutoHotkey Script:</h2>
 Follow the below steps to download AutoHotkey Script simple ways.
+<ul>
+ 	<li>Download <a href="https://www.autohotkey.com/"><strong>AutoHotkey Script </strong></a>here.</li>
+</ul>
 <ol>
- 	<li>Download <a href="https://www.itechtics.com/windows-hotkeys/"><strong>AutoHotkey Script </strong></a>here.</li>
  	<li>Then run the installer to install it on your system.</li>
  	<li>Now, right-click on Desktop. Go to New, and select the option of AutoHotkey Script.</li>
  	<li>Then, open the newly created script in the Notepad to edit it.</li>
