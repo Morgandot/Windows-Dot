@@ -17,7 +17,7 @@ In this article, we explain <strong>How to use a Laptop as a Second Monitor usin
  	<li><a href="#2">Closure</a></li>
 </ul>
 <h2 id="1">Use a Laptop as a Second Monitor using Windows 10 Wireless Display:</h2>
-First, we will begin with the basics, for this purpose need two Windows 10 computers.
+First, we will begin with the basics, for this purpose need <strong>two Windows 10 computers.</strong>
 <ol>
  	<li>The primary computer or laptop</li>
  	<li>The secondary computer or laptop</li>
@@ -57,7 +57,7 @@ For the primary computer, we want to have multiple monitors or screens.
 <ul>
  	<li>Windows 10 comes with <strong>Miracast technology</strong> built-in but you will need to install the <strong>Connect</strong> app to be able to use the laptop’s display as a secondary monitor.</li>
 </ul>
-Let’s start by installing the Connect app.
+Let’s start by installing the <strong>Connect</strong> app.
 <ol>
  	<li>Make use of the shortcut <strong>Windows + I</strong> to open the Windows Settings.</li>
  	<li>Select the <strong>Apps</strong> option in the Settings window.
@@ -113,20 +113,20 @@ Now, you can further configure security settings for the secondary display.
 </ul>
 <strong>1) Select which devices can project to this PC</strong>
 <ul>
- 	<li>Always off – Projection is not allowed</li>
- 	<li>Available everywhere – Anyone can connect without authorization</li>
- 	<li>Available everywhere on secure networks – Only devices using secure connections can connect to this device.</li>
+ 	<li><strong>Always off</strong> – Projection is not allowed</li>
+ 	<li><strong>Available everywhere</strong> – Anyone can connect without authorization</li>
+ 	<li><strong>Available everywhere on secure networks</strong> – Only devices using secure connections can connect to this device.</li>
 </ul>
 <strong>2) Ask to project to this PC</strong>
 <ul>
- 	<li>First time only – It will allow all devices after confirming for the first time.</li>
- 	<li>Every time a connection is requested – You will need to confirm every time before making a connection.</li>
+ 	<li><strong>First time only</strong> – It will allow all devices after confirming for the first time.</li>
+ 	<li><strong>Every time a connection is requested</strong> – You will need to confirm every time before making a connection.</li>
 </ul>
 <strong>3) Require a pin for pairing</strong>
 <ul>
- 	<li>Never – Disable pin for pairing. This will pair the devices without authentication.</li>
- 	<li>First time – Only ask for the first time then will automatically pair when a connection is available.</li>
- 	<li>Always – Always pair the devices before connecting.</li>
+ 	<li><strong>Never</strong> – Disable pin for pairing. This will pair the devices without authentication.</li>
+ 	<li><strong>First time</strong> – Only ask for the first time then will automatically pair when a connection is available.</li>
+ 	<li><strong>Always</strong> – Always pair the devices before connecting.</li>
 </ul>
 <strong>4)  Set on </strong>
 <ul>
