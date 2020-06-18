@@ -113,13 +113,23 @@ The last step is to reset Chrome when nothing works.
 <p id="13-reinstall-chrome"><strong>Reinstall Chrome</strong></p>
 
 <ul>
+ 	<li style="list-style-type: none;">
+<ul>
  	<li>First, <strong>uninstall Chrome.</strong></li>
  	<li>Go to <strong>Apps and Features</strong> in Windows 10.</li>
  	<li>When the uninstall is complete, then <strong>delete</strong> the following path.</li>
  	<li>
 <pre><code>C:\Users\Username\AppData\Local\Google\Chrome\</code></pre>
 </li>
- 	<li>Now, <strong>download the latest version of</strong> <a href="https://www.itechtics.com/chrome-download/"><strong>Chrome</strong> </a>and <strong>install</strong> it.</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>Now, <strong>download the latest version of</strong> <a href="https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BE40302C2-0AC9-C023-7FB3-7ACA0DEE198C%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26brand%3DCHBD%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"><strong>Chrome</strong> </a>and <strong>install</strong> it.</li>
+</ul>
+</li>
 </ul>
 <p id="14-limit-the-amount-of-processor-resources-available-to-chrome"><strong>Limit the number of processor resources available to Chrome</strong></p>
 If nothing is working and you want Chrome to not interfere with other processes.
