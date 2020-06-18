@@ -100,4 +100,4 @@ Your Windows PC will get the highest protection from other devices on the same n
 [caption id="attachment_308" align="alignnone" width="828"]<img class="size-full wp-image-308" src="https://windowsdot.com/wp-content/uploads/2020/05/nt14.png" alt="Change network type" width="828" height="502" /> Change network type[/caption]</li>
 </ol>
 <h2 id="6">Summary:</h2>
-If you follow the steps described above, you can <strong>Change Network Type in Windows 10</strong> quickly. It is recommended to keep your network type as Public if you don't share anything on your network. Convey us your <strong>feedback</strong> about this article in the below section. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
+If you follow the steps described above, you can <strong>Change Network Type in Windows 10</strong> quickly. It is recommended to keep your network type as Public if you don't share anything on your network. Convey us your <strong>feedback</strong> about this article in the below section. Thanks for visiting <a href="https://windowsdot.com" class="ilgen">Windows Dot</a>.
