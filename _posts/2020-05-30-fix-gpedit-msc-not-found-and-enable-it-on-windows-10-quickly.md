@@ -21,7 +21,7 @@ It is abbreviated as<b> Group Policy</b> <strong>Editor</strong> (gpedit. msc)
 <h2 id="2">Found Gpedit.Msc by installing GPEdit Enabler:</h2>
 Use the below steps to install,
 <ol>
- 	<li>Firstly, <a href="https://windowsdot.com/wp-content/uploads/gpedit-enabler-(Windows-Dot).bat"><strong>Download the GPEdit Enabler.</strong></a></li>
+ 	<li>Firstly, <a download href="https://windowsdot.com/wp-content/uploads/gpedit-enabler-(Windows-Dot).bat"><strong>Download the GPEdit Enabler.</strong></a></li>
  	<li><strong>Tap</strong> the batch file and it gets <strong>open</strong>.</li>
  	<li><strong>Right-click</strong> on the setup file and select the option <strong><strong>Run as Administrator.</strong></strong>
 
