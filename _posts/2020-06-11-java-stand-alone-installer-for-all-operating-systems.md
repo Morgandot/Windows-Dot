@@ -70,11 +70,13 @@ Follow the steps to Update Java using the Java control panel.
  	<li>Then, if you don’t have any specific requirements, the <strong>recommendation</strong> is to always download and install the latest version.</li>
 </ul>
 <h2 id="7">JRE And JDK Offline Installers:</h2>
+Use the below links to download<strong> JRE And JDK Offline Installers</strong> for Java all versions.
 <ul>
- 	<li>Use the below links to download<strong> JRE And JDK Offline Installers</strong> for Java all versions.</li>
- 	<li><a href="https://www.itechtics.com/download-java-8-jre-jdk-offline-installers/"><strong>Java 8 JRE and JDK offline installers for all platforms</strong></a></li>
- 	<li><a href="https://www.itechtics.com/java-10-offline-installers/"><strong>Java 10 JRE and JDK offline installers for all platforms</strong></a></li>
- 	<li><a href="https://www.itechtics.com/download-java-11/"><strong>Java 11 JDK offline installers for all platforms</strong></a></li>
+ 	<li><strong><a href="https://www.oracle.com/java/technologies/javase-jre8-downloads.html">Java 8 JRE </a></strong></li>
+ 	<li><strong><a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">Java 8 JDK </a></strong></li>
+ 	<li><a href="https://www.oracle.com/java/technologies/javase/end-of-support.html"><strong>Java 10 JRE </strong></a></li>
+ 	<li><a href="https://www.oracle.com/java/technologies/javase-downloads.html"><strong>Java 10 JDK</strong></a></li>
+ 	<li><a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html"><strong>Java 11 JDK offline installers for all platforms</strong></a></li>
 </ul>
 <h2 id="8">Conclusion:</h2>
 In the above article, we have illustrated the easy steps <strong>to download the latest Java Offline Installers for all Operating Systems.</strong> If you found this article helpful? Don’t forget to share your comments in the below section.
