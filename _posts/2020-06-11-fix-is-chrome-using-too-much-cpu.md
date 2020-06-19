@@ -28,7 +28,6 @@ In this article, we explain <strong>Is Chrome using too much CPU </strong>in si
  	<li>When you do not want to use any <strong>real-time monitoring tool</strong>, you can use the default Windows Task Manager.</li>
  	<li>It has a drawback, you will need to keep it open all the time to keep an eye on the<strong> system resources usage.</strong></li>
 </ul>
-[caption id="attachment_901" align="aligncenter" width="788"]<img class="wp-image-901 size-full" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_1-13.png" alt="Wise System Monitor" width="788" height="626" /> Wise System Monitor[/caption]
 <h2 id="2">Symptoms:</h2>
 Follow the below steps to know <strong>Symptoms of high CPU usage.</strong>
 <ul>
@@ -60,9 +59,9 @@ When you have opened Google Chrome and it is taking a lot of CPU resources, you 
  	<li>It is a<strong> built-in task manager</strong> which shows the list of all the Chrome processes and their resource usage.</li>
  	<li>Open it by using the shortcut <strong>Shift + Esc</strong> keys.</li>
  	<li>Then, click on <strong>CPU</strong> to sort the list by CPU usage option.</li>
- 	<li>Now, Select the<strong> Chrome sub-process</strong> and click <strong><strong>End Process.</strong></strong>
+ 	<li>Now, Select the<strong> Chrome sub-process</strong> and click <strong><strong><strong>End Process.</strong></strong></strong>
 
-[caption id="attachment_1193" align="aligncenter" width="809"]<img class="size-full wp-image-1193" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_7-11.png" alt="Chrome Task Manager" width="809" height="589" /> Chrome Task Manager[/caption]</li>
+[caption id="attachment_1268" align="aligncenter" width="451"]<img class="size-full wp-image-1268" src="https://windowsdot.com/wp-content/uploads/2020/06/Screenshot_9-5.png" alt="Chrome Task Manager" width="451" height="337" /> Chrome Task Manager[/caption]</li>
 </ul>
 <p id="6-disable-chrome-extensions"><strong>Disable Chrome extensions</strong></p>
 
