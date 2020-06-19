@@ -13,7 +13,7 @@ If you are curious to know your system uptime in Windows 10? In this tutorial, y
 <ul class="toc">
  	<li><a href="#1">System Uptime in Windows 10</a></li>
  	<li><a href="#2">Check Uptime via Task Manager</a></li>
- 	<li><a href="#3">See Uptime - Using Network Adapter</a></li>
+ 	<li><a href="#3">Find Uptime - Using Network Adapter</a></li>
  	<li><a href="#4">Check Uptime via Command Prompt</a></li>
  	<li><a href="#5">See Uptime - Using PowerShell</a></li>
  	<li><a href="#6">Closure</a></li>
@@ -30,7 +30,7 @@ This is mostly used by network admins for troubleshooting several issues on a co
 
 [caption id="attachment_1291" align="alignnone" width="704"]<img class="size-full wp-image-1291" src="https://windowsdot.com/wp-content/uploads/2020/06/up1.png" alt="Task Manager" width="704" height="633" /> Task Manager[/caption]</li>
 </ol>
-<h2 id="3">Way 2 - See Uptime - Using Network Adapter:</h2>
+<h2 id="3">Way 2 - Find Uptime - Using Network Adapter:</h2>
 <ol>
  	<li>In the Taskbar, you have to right-click on the network icon and choose <strong>Open Network &amp; Internet settings</strong>.
 
