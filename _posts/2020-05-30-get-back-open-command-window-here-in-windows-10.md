@@ -93,4 +93,4 @@ However, it is still possible to get back the option in Windows 10 even you can'
  	<li>Once you complete the above steps, place the cursor on the folder, press <strong>Shift + Right-click</strong> so it will display the context menu with the <strong>'Open command window here' </strong>option.</li>
 </ol>
 <h2 id="4">Closure:</h2>
-Many users prefer Command Prompt to run commands. These articles helped you to get back the <strong>Open Command Window Here</strong> to the context menu in Windows. So, you can get a quick access to the utility in a particular location. Share your <strong>comments</strong> in the below section. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
+Many users prefer Command Prompt to run commands. These ways helped you to get back the <strong>Open Command Window Here</strong> to the context menu in Windows. So, you can get quick access to the utility in a particular location. Share your <strong>comments</strong> in the below section. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
