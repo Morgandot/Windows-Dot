@@ -82,4 +82,4 @@ Download the<a href="http://www.rohos.com/"><strong> Rohos Mini Drive</strong> <
 
 <strong>Image source:</strong><em> itechtics.com</em>
 <h2 id="6">Closure:</h2>
-This tutorial guided you on how to Download the best Free USB Drive Password Protection Tools. Don’t forget to share your comments in the below box.
+This tutorial guided you on <strong>how to Download the best Free USB Drive Password Protection Tools.</strong> Don’t forget to share your comments in the below box.
