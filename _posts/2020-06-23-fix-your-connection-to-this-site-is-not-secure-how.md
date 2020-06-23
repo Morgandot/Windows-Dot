@@ -11,10 +11,48 @@ post_date: 2020-06-23 06:57:29
 ---
 In this article, we illustrate an outline of <strong>How to fix your connection to this site is not secure</strong> in simple ways.
 <ul class="toc">
+ 	<li><a href="#5">Verify the Date and Time</a></li>
+ 	<li><a href="#6"> Clear History and Cached Browsing Data on Chrome</a></li>
  	<li><a href="#1">SSL error</a></li>
  	<li><a href="#2">Fixing the issue on WordPress</a></li>
  	<li><a href="#3">Finding the problematic resources and fixing the error</a></li>
  	<li><a href="#4">A Brief Synopsis</a></li>
+</ul>
+<h2 id="5">Verify the Date and Time:</h2>
+Follow the below steps to verify the Date and Time in simple steps.
+<ul>
+ 	<li>Right-click on the <strong>date and time.</strong></li>
+ 	<li>Then, select the<strong><strong> Adjust date/time.</strong></strong>
+
+[caption id="attachment_1499" align="aligncenter" width="327"]<img class="size-full wp-image-1499" src="https://windowsdot.com/wp-content/uploads/2020/06/08BWqCvfeb.png" alt="Adjust date/time" width="327" height="471" /> Adjust date/time[/caption]</li>
+ 	<li><strong>Turn On</strong> th<strong>e Set time automatically</strong> and<strong><strong> Adjust for daylight saving time automatically.</strong></strong>
+
+[caption id="attachment_1498" align="aligncenter" width="743"]<img class="size-full wp-image-1498" src="https://windowsdot.com/wp-content/uploads/2020/06/0n36tBEOWD.png" alt="Turn ON" width="743" height="528" /> Turn ON[/caption]</li>
+ 	<li>Then, make sure your <strong>time zone</strong> is selected for the Time zone.
+
+[caption id="attachment_1497" align="aligncenter" width="745"]<img class="size-full wp-image-1497" src="https://windowsdot.com/wp-content/uploads/2020/06/0IG2dvYBG5.png" alt="Time Zone" width="745" height="533" /> Time Zone[/caption]</li>
+ 	<li>If you want, you can manually <strong>set the date and time.</strong></li>
+ 	<li>Set time automatically is <strong>set to Off,</strong> then selec<strong><strong>t Change.</strong></strong>
+
+[caption id="attachment_1496" align="aligncenter" width="742"]<img class="size-full wp-image-1496" src="https://windowsdot.com/wp-content/uploads/2020/06/a9f0QeRwya.png" alt="Turn OFF" width="742" height="529" /> Turn OFF[/caption]</li>
+ 	<li>Then, <strong>set the Date and Time correctly</strong>, then click the Change option.
+
+[caption id="attachment_1495" align="aligncenter" width="737"]<img class="size-full wp-image-1495" src="https://windowsdot.com/wp-content/uploads/2020/06/fBvssQi8ib.png" alt="Change" width="737" height="376" /> Change[/caption]</li>
+</ul>
+<h2 id="6">Clear History and Cached Browsing Data:</h2>
+Follow the below steps to clear History and cached browsing data in simple steps.
+<ul>
+ 	<li>First, open <strong>Google Chrome.</strong></li>
+ 	<li>Then, click the<strong> three dots</strong> in the top right corner.</li>
+ 	<li>Click<strong> More tools,</strong> then select<strong><strong> Clear browsing data.</strong></strong>
+
+[caption id="attachment_1501" align="aligncenter" width="711"]<img class="size-full wp-image-1501" src="https://windowsdot.com/wp-content/uploads/2020/06/chrome_kQHxVXZU9I.png" alt="More Tools" width="711" height="615" /> More Tools[/caption]</li>
+ 	<li>Select the <strong>Advanced</strong> option.</li>
+ 	<li>Select <strong>All time</strong> in the time range.</li>
+ 	<li><strong>Check-in</strong> each item you like to clear, and then select <strong><strong>Clear data.</strong></strong>
+
+[caption id="attachment_1500" align="aligncenter" width="635"]<img class="size-full wp-image-1500" src="https://windowsdot.com/wp-content/uploads/2020/06/chrome_mUsMyLmEGo.png" alt="Advanced" width="635" height="591" /> Advanced[/caption]</li>
+ 	<li>That's all.</li>
 </ul>
 <h2 id="1">SSL error:</h2>
 <ul>
@@ -56,7 +94,7 @@ Note: The above method will only <strong>fix internal HTTP</strong> references t
 
 If you are not using <strong>WordPress</strong> or the above-mentioned method doesn’t work, then you should use this method.
 <ol>
- 	<li>To quickly check the <strong>HTTP references</strong> on the web page is to view its source and search for <strong>https://</strong> is one of the best way.</li>
+ 	<li>To quickly check the <strong>HTTP references</strong> on the web page is to view its source and search for <strong>https://</strong> is one of the best ways.</li>
  	<li>But sometimes there are images which load from the <strong>CSS</strong> or other resources which don’t get mentioned in the main source code and these are hard to detect.</li>
  	<li>To get rid of this error, there is a wonderful service called <strong>Why No Padlock. </strong></li>
  	<li>Go to the official page of <a href="https://www.whynopadlock.com/"><strong>https://whynopadlock.com</strong></a>, and then enter your <strong>problematic URL</strong> and wait for it to process.</li>
