@@ -1,6 +1,6 @@
 ---
 ID: 1463
-post_title: 'Keep Google Chrome History Forever!! &#8211; {2 Ways}'
+post_title: 'How to save Google Chrome History?- {2 Ways}'
 author: Olivia
 post_excerpt: ""
 layout: post
