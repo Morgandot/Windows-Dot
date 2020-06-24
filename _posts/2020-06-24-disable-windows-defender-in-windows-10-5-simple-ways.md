@@ -23,22 +23,19 @@ Here, we come up with an interesting article on how to <strong>Disable Windows D
 Windows Defender is easy to use and pre-installed security software in Windows 10. It does not need any manual configuration and enabled by default. There comes a situation when you want to disable it for installing any other applications in your system.
 
 This security software will not disable itself when you want to install other antivirus programs for securing your server or system. You can choose any one of the methods illustrated below to disable this software.
-<h2 id="2">Using PowerShell to Disable Windows Defender:</h2>
+<h2 id="2">1) Using PowerShell to Disable Windows Defender:</h2>
 <ol>
  	<li>Go to the <strong>Start</strong> menu and type '<strong>powershell</strong>' in the search box. Right-click on the top result and choose <strong>Run as administrator</strong>.
 
 [caption id="attachment_1552" align="alignnone" width="1321"]<img class="size-full wp-image-1552" src="https://windowsdot.com/wp-content/uploads/2020/06/wdd1.png" alt="PowerShell" width="1321" height="884" /> PowerShell[/caption]</li>
- 	<li>Now, you have to type the below command and hit <strong>Enter </strong>to disable real-time monitoring. <code>Set-MpPreference -DisableRealtimeMonitoring $true
-</code></li>
- 	<li>
+ 	<li>Now, you have to type the below command and hit <strong>Enter </strong>to disable real-time monitoring. <code>Set-MpPreference -DisableRealtimeMonitoring $true</code>
 
-[caption id="attachment_1539" align="alignnone" width="1164"]<img class="size-full wp-image-1539" src="https://windowsdot.com/wp-content/uploads/2020/06/wd1.png" alt="PowerShell - Command" width="1164" height="588" /> PowerShell - Command[/caption]
-
-If you want to remove it completely, you have to run this command and hit <strong>Enter</strong>. <code>Uninstall-WindowsFeature -Name Windows-Defender</code>
+[caption id="attachment_1539" align="alignnone" width="1164"]<img class="size-full wp-image-1539" src="https://windowsdot.com/wp-content/uploads/2020/06/wd1.png" alt="PowerShell - Command" width="1164" height="588" /> PowerShell - Command[/caption]</li>
+ 	<li>If you want to remove it completely, you have to run this command and hit <strong>Enter</strong>. <code>Uninstall-WindowsFeature -Name Windows-Defender</code>
 
 [caption id="attachment_1540" align="alignnone" width="1157"]<img class="size-full wp-image-1540" src="https://windowsdot.com/wp-content/uploads/2020/06/wd2.png" alt="PowerShell - Command" width="1157" height="584" /> PowerShell - Command[/caption]</li>
 </ol>
-<h2 id="3">How to Disable Windows Defender via Command Prompt?</h2>
+<h2 id="3">2) How to Disable Windows Defender via Command Prompt?</h2>
 <ol>
  	<li>Click on the <strong>Windows key</strong> to open the <strong>Start</strong> menu.</li>
  	<li>In the search box, you have to type <strong>‘cmd’</strong>. Right-click on the result and choose <strong>Run as administrator</strong>. (If prompted, you have to press <strong>‘Yes’</strong> in the User Account Control window.)
@@ -54,7 +51,7 @@ If you want to remove it completely, you have to run this command and hit <stron
 </ol>
 <p id="note"><strong>Note: </strong>Don't forget to hit <strong>Enter</strong> at the end of every command.</p>
 
-<h2 id="4">Disable it Using Settings:</h2>
+<h2 id="4">3) Disable it Using Settings:</h2>
 <ol>
  	<li>Use this shortcut <strong>Windows key + I</strong> to open the <strong>Settings</strong>.</li>
  	<li>You have to click the <strong>Update &amp; Security</strong> option.
@@ -73,7 +70,7 @@ If you want to remove it completely, you have to run this command and hit <stron
 
 [caption id="attachment_1547" align="alignnone" width="1037"]<img class="size-full wp-image-1547" src="https://windowsdot.com/wp-content/uploads/2020/06/wd9.png" alt="Turn off" width="1037" height="821" /> Turn off[/caption]</li>
 </ol>
-<h2 id="5">Use Group Policy Editor to Disable it:</h2>
+<h2 id="5">4) Use Group Policy Editor to Disable it:</h2>
 <ol>
  	<li>First, you have to open the <strong>Run box </strong>by using this shortcut <strong>Windows key + R</strong>.</li>
  	<li>Type the below command and click <strong>OK</strong>. <code>gpedit.msc</code>
@@ -88,7 +85,7 @@ If you want to remove it completely, you have to run this command and hit <stron
 
 [caption id="attachment_1549" align="alignnone" width="1028"]<img class="size-full wp-image-1549" src="https://windowsdot.com/wp-content/uploads/2020/06/wd11.png" alt="Enabled" width="1028" height="954" /> Enabled[/caption]</li>
 </ol>
-<h2 id="6">Disable via Registry Editor:</h2>
+<h2 id="6">5) Disable via Registry Editor:</h2>
 <ol>
  	<li>Hit this keyboard combination <strong>Windows key + R</strong> to open the <strong>Run command.</strong></li>
  	<li>You have to type the below command and click <strong>OK</strong>. (If you get any pop-up from User Account Control, you have to press Yes) <code>regedit</code>
