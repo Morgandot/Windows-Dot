@@ -102,7 +102,7 @@ This security software will not disable itself when you want to install other an
  	<li>Restart your PC to apply the changes.</li>
 </ol>
 <h2 id="7">A Short Synopsis:</h2>
-This tutorial guided you on how to <strong>Disable Windows Defender in Windows 10</strong> in clear-cut steps. You can follow any one of the above methods to disable or turn off this software in your PC. Don't forget to share your <strong>comments</strong> in the below box. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
+This tutorial guided you on how to <strong>Disable Windows Defender in Windows 10</strong> in clear-cut steps. You can follow any one of the above methods to disable or turn off this software on your PC. Don't forget to share your <strong>comments</strong> in the below box. Thanks for visiting <b>Windows Dot.</b>
 <h2>Keep Reading:</h2>
 <ul>
  	<li><strong><a class="LinkSuggestion__Link-sc-1mdih4x-2 jZPuuT" href="https://windowsdot.com/how-to-check-windows-10-uptime-4-quick-ways/" target="_blank" rel="noopener noreferrer">How to Check Windows 10 Uptime? {4 Quick Ways}</a></strong></li>
