@@ -5,7 +5,7 @@ author: Olivia
 post_excerpt: ""
 layout: post
 permalink: >
-  https://windowsdot.com/keep-google-chrome-history-forever-2-ways/
+  https://windowsdot.com/how-to-save-google-chrome-history-2-ways/
 published: true
 post_date: 2020-06-23 06:57:16
 ---
