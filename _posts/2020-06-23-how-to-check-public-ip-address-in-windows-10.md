@@ -1,7 +1,7 @@
 ---
 ID: 1474
 post_title: >
-  How to check public IP Address in
+  How to Check Public IP Address in
   Windows 10?
 author: Olivia
 post_excerpt: ""
