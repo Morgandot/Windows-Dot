@@ -56,7 +56,7 @@ You just need to download and run the .exe file so you don't have to install it 
  	<li>It is a paid software and an old application created for Windows XP and Windows 7.</li>
  	<li>Those who are using older operating systems can try this software in order to extend audio choices.</li>
 </ul>
-<a href="http://www.indievolume.com/" target="_blank" rel="noopener noreferrer"><strong>Download IndiaVolume</strong></a>
+<a href="http://www.indievolume.com/" target="_blank" rel="noopener noreferrer"><strong>Download IndieVolume</strong></a>
 <h2 id="6">Closure:</h2>
 That's it. We have well informed about <strong>Audio Router for Windows 10</strong>. We hope that this article provided you essential details about several applications for routing the sound. Kindly, share your valuable <strong>comments</strong> to enhance our write-up. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
 <h2>Keep Reading:</h2>
