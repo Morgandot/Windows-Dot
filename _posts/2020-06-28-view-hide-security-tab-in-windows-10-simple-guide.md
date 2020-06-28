@@ -54,8 +54,6 @@ In this article, we guide you <strong>How to View/Hide Security Tab in Windows 1
 </ol>
 <h2 id="3">View/Hide Security Tab using the command line:</h2>
 <ol>
- 	<li style="list-style-type: none;">
-<ol>
  	<li>Go to the <strong>start</strong> menu.</li>
  	<li>In the search column, type as <strong>Command Prompt.</strong></li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -69,8 +67,6 @@ Nosecuritytab /t REG_DWORD /d 0 /f</code></pre>
  	<li>Press <strong>Enter</strong>.
 <pre><code>REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v 
 Nosecuritytab /t REG_DWORD /d 1 /f</code></pre>
-</li>
-</ol>
 </li>
 </ol>
 <strong>Image Source:</strong><em> itechtics.com</em>
