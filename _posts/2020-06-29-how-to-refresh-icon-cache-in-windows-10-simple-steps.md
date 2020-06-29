@@ -29,9 +29,9 @@ Whenever Windows needs icons, it gets from the cache rather than retrieving the 
  	<li>Then, you have to click the <strong>Apply</strong> and <strong>OK</strong> button.
 
 [caption id="attachment_1696" align="alignnone" width="621"]<img class="size-full wp-image-1696" src="https://windowsdot.com/wp-content/uploads/2020/06/Show-hidden-files.png" alt="Show hidden files" width="621" height="764" /> Show hidden files[/caption]</li>
- 	<li>Go to <code>C:\Users\username\AppData\Local\iconCache.db</code>. Replace username with your system's username.</li>
+ 	<li>Go to <code>C:\Users\username\AppData\Local\iconCache.db</code> Replace username with your system's username.</li>
  	<li>You have to delete the '<strong>iconCache.db</strong>' file to refresh the icon cache. So, Windows will automatically begin rebuilding the new cache.</li>
- 	<li>Further, you have to navigate to the below folder. <code>C:\Users\username\AppData\Local\Microsoft\Windows\Explorer</code></li>
+ 	<li>Further, you have to navigate to the below folder. <code>C:\Users\username\AppData\Local\Microsoft\Windows\Explorer</code>Replace username with your system's username.</li>
  	<li>Right-click on the <strong>Explorer</strong> folder and choose the <strong>Open command window here</strong>.</li>
  	<li>It will open the command prompt window. You have to type '<strong>dir</strong>' and hit <strong>Enter </strong>to make sure that you are in the correct folder.</li>
  	<li>Now, you can see the icon cache file.</li>
