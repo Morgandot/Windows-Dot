@@ -16,9 +16,11 @@ Here, we come up with an interesting article on how to <strong>Refresh Icon Cach
  	<li><a href="#3">A Short Synopsis</a></li>
 </ul>
 <h2 id="1">Refresh Icon Cache in Windows 10:</h2>
-Icon cache is a database (db) file that has a copy of each and every icon for quicker access. For each and every icon on Windows 10, the device stores updated information about them in a file called <span class="skimlinks-unlinked">IconCache.db</span> which remains hidden somewhere.
+Icon cache is a database (db) file that has a copy of each and every icon for quicker access. For each and every icon on Windows 10, the device stores updated information about them in a file called <span class="skimlinks-unlinked">IconCache.db</span> which remains hidden somewhere. Whenever Windows needs icons, it gets from the cache rather than retrieving the icon image from the original app.
 
-Whenever Windows needs icons, it gets from the cache rather than retrieving the icon image from the original app. The details about new icons are first stored in the main memory, and then the cache file is updated periodically. If any of your icons are not showing, then it states that you want to refresh your icon cache. This is mainly due to the issues with the icon cache file. In such cases, we have to refresh the icon cache. So, you just follow the below steps to do it without restarting your system.
+The details about new icons are first stored in the main memory, and then the cache file is updated periodically. If any of your icons are not showing, then it states that you want to refresh your icon cache. This is mainly due to the issues with the icon cache file. In such cases, we have to refresh the icon cache. So, you just follow the below steps to do it without restarting your system.
+
+<strong>Tip:</strong> Learn how to <a href="https://windowsdot.com/clear-all-types-of-windows-10-cache-quickly/#2"><strong>clear all types of Windows 10 cache</strong></a>.
 <h2 id="2">Steps to Refresh Icon Cache:</h2>
 <ol>
  	<li>Go to the <strong>Start</strong> menu and type ‘<strong>file explorer options</strong>‘ in the search box and hit <strong>Enter</strong>.
