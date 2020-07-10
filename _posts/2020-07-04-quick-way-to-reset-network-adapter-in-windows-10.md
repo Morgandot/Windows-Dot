@@ -1,6 +1,6 @@
 ---
 ID: 1864
-post_title: '{*Quick Way*} To Reset Network Adapter In Windows 10!!'
+post_title: 'To Reset Network Adaptor In Windows 10!!{*Quick Way*}'
 author: Olivia
 post_excerpt: ""
 layout: post
