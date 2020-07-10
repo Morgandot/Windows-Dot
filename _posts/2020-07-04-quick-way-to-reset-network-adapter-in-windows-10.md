@@ -20,7 +20,7 @@ Follow the below steps<strong> to Reset Network Adapter using Settings</strong> 
  	<li>Make use of the shortcut <strong>Windows + I</strong> to open the <strong>Windows Settings.</strong></li>
  	<li>In the <strong>settings</strong> window, select the<strong> Network &amp; Internet</strong> option.
 
-[caption id="attachment_1865" align="aligncenter" width="762"]<img class="size-full wp-image-1865" src="https://windowsdot.com/wp-content/uploads/2020/07/O58sGBdrRD.png" alt="Settings" width="762" height="478" /> Settings[/caption]</li>
+[caption id="attachment_1899" align="aligncenter" width="1874"]<img class="size-full wp-image-1899" src="https://windowsdot.com/wp-content/uploads/2020/07/ApplicationFrameHost_vnSqOs4dDg.png" alt="Settings" width="1874" height="736" /> Settings[/caption]</li>
  	<li>Then, in the <strong>left</strong> <strong>pane</strong> click on the <strong>status</strong> option.</li>
  	<li>Scroll down on the <strong>right</strong> <strong>pane</strong>, and locate the <strong>network</strong> <strong>reset</strong>.</li>
  	<li>Click on that <strong>option</strong>.
