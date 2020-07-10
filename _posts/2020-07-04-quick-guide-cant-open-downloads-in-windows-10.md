@@ -1,6 +1,6 @@
 ---
 ID: 1844
-post_title: '{Quick Guide} Can’t Open Downloads in Windows 10?'
+post_title: '{Easy Fix} Can’t Open Downloads in Windows 10?'
 author: Olivia
 post_excerpt: ""
 layout: post
