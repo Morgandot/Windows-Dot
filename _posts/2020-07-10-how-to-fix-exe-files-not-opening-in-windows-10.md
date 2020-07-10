@@ -23,11 +23,19 @@ Follow the below steps to fix unable to download any exe files by using Internet
 <ol>
  	<li>Go to the<strong> start menu.</strong></li>
  	<li>In the search column, type as<strong> Internet Options.</strong></li>
- 	<li><strong>Tap</strong> it which appears on the top of the start menu.</li>
+ 	<li><strong>Tap</strong> it which appears on the top of the start menu.
+
+[caption id="attachment_1918" align="aligncenter" width="468"]<img class="size-full wp-image-1918" src="https://windowsdot.com/wp-content/uploads/2020/07/explorer_4xyoGnuknR.png" alt="Start Menu" width="468" height="764" /> Start Menu[/caption]</li>
  	<li>In the <strong>Internet Options</strong> window, select the<strong> Security option.</strong></li>
- 	<li>Then click on the <strong>Internet</strong> and click the<strong> Custom Level</strong> option.</li>
- 	<li>Then in the <strong>Security Settings</strong> window, under the <strong>Downloads section,</strong> <strong>enable File Download and Font Download</strong> options.</li>
- 	<li>Again in the <strong>same window,</strong> locate<strong> Launching application</strong>s <strong>and unsafe files, </strong>select the <strong>Prompt option.</strong></li>
+ 	<li>Then click on the <strong>Internet</strong> and click the<strong> Custom Level</strong> option.
+
+[caption id="attachment_1923" align="aligncenter" width="471"]<img class="size-full wp-image-1923" src="https://windowsdot.com/wp-content/uploads/2020/07/rundll32_2KKKLJtnhR.png" alt="Internet Options" width="471" height="645" /> Internet Options[/caption]</li>
+ 	<li>Then in the <strong>Security Settings</strong> window, under the <strong>Downloads section,</strong> <strong>enable File Download and Font Download</strong> options.
+
+[caption id="attachment_1917" align="aligncenter" width="465"]<img class="size-full wp-image-1917" src="https://windowsdot.com/wp-content/uploads/2020/07/rundll32_yUYxvCxb8H.png" alt="Enable" width="465" height="557" /> Enable[/caption]</li>
+ 	<li>Again in the <strong>same window,</strong> locate<strong> Launching application</strong>s <strong>and unsafe files, </strong>select the <strong><strong>Prompt option.</strong></strong>
+
+[caption id="attachment_1916" align="aligncenter" width="463"]<img class="size-full wp-image-1916" src="https://windowsdot.com/wp-content/uploads/2020/07/rundll32_byLPE3Lc0g.png" alt="Prompt" width="463" height="566" /> Prompt[/caption]</li>
  	<li>Click <strong>Apply</strong> and <strong>OK</strong>.</li>
 </ol>
 <h2 id="2">How to Fix Exe Files Not Opening In Windows 10?</h2>
