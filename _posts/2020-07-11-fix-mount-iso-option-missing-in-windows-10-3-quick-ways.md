@@ -56,9 +56,13 @@ You just need to right-click on an ISO file and choose the Mount option. Mountin
 
 [caption id="attachment_1983" align="alignnone" width="1096"]<img class="size-full wp-image-1983" src="https://windowsdot.com/wp-content/uploads/2020/07/Set-your-default-programs.png" alt="Set your default programs" width="1096" height="690" /> Set your default programs[/caption]</li>
  	<li>It will open the <strong>Default apps</strong> settings page.</li>
- 	<li>Now, you have to scroll down and click the <strong>Set defaults by apps</strong> link.</li>
+ 	<li>Now, you have to scroll down and click the <strong>Set defaults by apps</strong> link.
+
+[caption id="attachment_1982" align="alignnone" width="1312"]<img class="size-full wp-image-1982" src="https://windowsdot.com/wp-content/uploads/2020/07/Set-defaults-by-app.png" alt="Set defaults by app" width="1312" height="766" /> Set defaults by app[/caption]</li>
  	<li>In the list of apps, you have to scroll down and select the <strong>Windows Disc Image Burner</strong>.</li>
- 	<li>Click the <strong>Manage</strong> button and choose the Default app.</li>
+ 	<li>Click the <strong>Manage</strong> button and choose the Default app.
+
+[caption id="attachment_1980" align="alignnone" width="1313"]<img class="size-full wp-image-1980" src="https://windowsdot.com/wp-content/uploads/2020/07/Manage.png" alt="Manage" width="1313" height="764" /> Manage[/caption]</li>
  	<li>So, if you right-click on an ISO file, you can see the <strong>Mount</strong> option now.</li>
 </ol>
 <h2 id="4">3) How to Fix Mount ISO Missing through Properties?</h2>
