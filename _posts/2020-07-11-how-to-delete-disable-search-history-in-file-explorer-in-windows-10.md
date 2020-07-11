@@ -1,13 +1,13 @@
 ---
 ID: 1953
 post_title: >
-  Delete/Disable Search History In File
-  Explorer in Windows 10!!
+  How to Delete/Disable Search History In
+  File Explorer in Windows 10?
 author: Olivia
 post_excerpt: ""
 layout: post
 permalink: >
-  https://windowsdot.com/delete-disable-search-history-in-file-explorer-in-windows-10/
+  https://windowsdot.com/how-to-delete-disable-search-history-in-file-explorer-in-windows-10/
 published: true
 post_date: 2020-07-11 15:15:47
 ---
