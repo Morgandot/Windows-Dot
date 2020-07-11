@@ -15,15 +15,15 @@ In this post, you will learn how to <strong>Fix Mount ISO Option Missing in Wind
 <ul class="toc">
  	<li><a href="#1">Mount ISO Option Missing in Windows 10</a></li>
  	<li><a href="#2">Fix Mount ISO Missing using Settings</a></li>
- 	<li><a href="#2">Fix Mount ISO Missing via Control Panel</a></li>
- 	<li><a href="#2">How to Fix Mount ISO Missing through Properties?</a></li>
+ 	<li><a href="#3">Fix Mount ISO Missing via Control Panel</a></li>
+ 	<li><a href="#4">How to Fix Mount ISO Missing through Properties?</a></li>
  	<li><a href="#5">Conclusion</a></li>
 </ul>
 <h2 id="1">Mount ISO Option Missing in Windows 10:</h2>
 In Windows 7 and older versions of Windows, you have to make use of third-party applications in order to mount an ISO file. But, in both Windows 8 and Windows 10, the Mount option is available by default. So, you can mount any ISO files without the need of installing third-party software.
 
 You just need to right-click on an ISO file and choose the Mount option. Mounting an ISO file is really easy with the use of this option. If you found that the Mount option is missing in the context menu, then this article guides you to fix it.
-<h2>1) Fix Mount ISO Missing using Settings:</h2>
+<h2 id="2">1) Fix Mount ISO Missing using Settings:</h2>
 <ol>
  	<li>To open the <strong>Settings</strong>, you have to use this shortcut <strong>Windows key + I.</strong></li>
  	<li>Then, you have to click the <b>Apps </b>option.
@@ -41,7 +41,7 @@ You just need to right-click on an ISO file and choose the Mount option. Mountin
 [caption id="attachment_1980" align="alignnone" width="1313"]<img class="size-full wp-image-1980" src="https://windowsdot.com/wp-content/uploads/2020/07/Manage.png" alt="Manage" width="1313" height="764" /> Manage[/caption]</li>
  	<li>So, if you right-click on an ISO file, you can see the <strong>Mount</strong> option now.</li>
 </ol>
-<h2>2) Fix Mount ISO Missing via Control Panel:</h2>
+<h2 id="3">2) Fix Mount ISO Missing via Control Panel:</h2>
 <ol>
  	<li>Go to the <strong>Start</strong> menu and type '<strong>control panel</strong>' in the search box and hit <strong>Enter</strong>.
 
@@ -61,7 +61,7 @@ You just need to right-click on an ISO file and choose the Mount option. Mountin
  	<li>Click the <strong>Manage</strong> button and choose the Default app.</li>
  	<li>So, if you right-click on an ISO file, you can see the <strong>Mount</strong> option now.</li>
 </ol>
-<h2>3) How to Fix Mount ISO Missing through Properties?</h2>
+<h2 id="4">3) How to Fix Mount ISO Missing through Properties?</h2>
 <ol>
  	<li>You have to right-click on the ISO file and navigate to <strong>Properties</strong>.</li>
  	<li>Then, you have to click the <strong>Change</strong> button next to <strong>Opens with</strong> option.</li>
