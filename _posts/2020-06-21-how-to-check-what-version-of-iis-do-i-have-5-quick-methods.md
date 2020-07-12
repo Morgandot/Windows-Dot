@@ -10,7 +10,7 @@ published: true
 post_date: 2020-06-21 09:06:44
 ---
 We will show you five diverse ways to <strong>Check What Version of IIS Do I Have</strong> quickly.
-<ul>
+<ul class="toc">
  	<li><a href="#1">Internet Information Services (IIS)</a></li>
  	<li><a href="#2">Check IIS Version - Using Control Panel</a></li>
  	<li><a href="#3">Registry Editor to View IIS Version</a></li>
