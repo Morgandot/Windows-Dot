@@ -11,11 +11,15 @@ post_date: 2020-05-30 10:10:30
 ---
 In this article, we are going to show you three simple ways to <strong>Find Saved Wi-Fi Passwords in Windows 10</strong>.
 <ul class="toc">
+ 	<li style="list-style-type: none;">
+<ul class="toc">
  	<li><a href="#1">Find Saved Wifi Passwords in Windows 10</a></li>
- 	<li><a href="#2">View </a><a href="#2">Saved </a><a href="#2"> Wifi Passwords - Using Settings</a></li>
- 	<li><a href="#3">Find </a><a href="#2">Saved </a><a href="#2">Wifi Passwords via Command Line</a></li>
- 	<li><a href="#4">View </a><a href="#2">Saved </a><a href="#2">Wifi Passwords - Using Third-party Program</a></li>
+ 	<li><a href="#2">View Wifi Passwords - Using Settings</a></li>
+ 	<li><a href="#3">Find Wifi Passwords via Command Line</a></li>
+ 	<li><a href="#4">View Wifi Passwords - Using Third-party Program</a></li>
  	<li><a href="#5">Wind-up</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="1">Find Saved Wifi Passwords in Windows 10:</h2>
 There can be a lot of reasons to know the saved wifi password. You may require the password to connect the network in another PC or if you want to share the network connection with your friends, etc. What you will do if you forget your wifi password in such cases. Thankfully, there are several ways to locate it. So, we are here to assist you with three different ways to find your saved wifi password.
