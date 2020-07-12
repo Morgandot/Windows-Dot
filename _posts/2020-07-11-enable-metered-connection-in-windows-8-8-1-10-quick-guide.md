@@ -12,7 +12,7 @@ published: true
 post_date: 2020-07-11 22:56:36
 ---
 In this article, we are going to show you three simple ways to <strong>Enable Metered Connection in Windows 8/8.1/10</strong>.
-<ul>
+<ul class="toc">
  	<li><a href="#1">Metered Connection in Windows 8/8.1/10</a></li>
  	<li><a href="#2">2 Simple Ways to Enable Metered Connection</a></li>
  	<li><a href="#3">How to Set Data Limit?</a></li>
