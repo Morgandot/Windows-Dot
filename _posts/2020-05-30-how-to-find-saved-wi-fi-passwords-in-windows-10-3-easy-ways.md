@@ -69,4 +69,4 @@ You can use this third-party program called <strong>Magical JellyBean -</strong>
 [caption id="attachment_417" align="alignnone" width="802"]<img class="size-full wp-image-417" src="https://windowsdot.com/wp-content/uploads/2020/05/wp8.png" alt="WiFi Password Revealer" width="802" height="334" /> WiFi Password Revealer[/caption]</li>
 </ol>
 <h2 id="5">Wind-up:</h2>
-The three ways explained in this article to <strong>Find Saved Wi-Fi Passwords in Windows 10 </strong>are simple and easy. You can follow any one of the ways to view your saved wifi passwords on your system. <strong>Leave a reply</strong> below so it enhances your write-up. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
+The three ways explained in this article to <strong>Find Saved Wi-Fi Passwords in Windows 10 </strong>are simple and easy. You can follow any one of the ways to view your saved wifi passwords on your system. <strong>Leave a reply</strong> below so it enhances our write-up. Thanks for visiting <a href="https://windowsdot.com/"><strong>Windows Dot</strong></a>.
