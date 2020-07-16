@@ -19,6 +19,7 @@ In this article, we discuss <strong>Microsoft .NET Framework 4.7.2 Offline Insta
  	<li><a href="#4">Download Links</a></li>
  	<li><a href="#5">Summary</a></li>
 </ul>
+[caption id="attachment_2162" align="aligncenter" width="1600"]<img class="size-full wp-image-2162" src="https://windowsdot.com/wp-content/uploads/2020/07/NET-Framework-4.7.2.png" alt=".NET Framework 4.7.2" width="1600" height="815" /> .NET Framework 4.7.2[/caption]
 <h2 id="1">What is .NET Framework 4.7.2 offline installer?</h2>
 <ul>
  	<li><strong>Microsoft</strong> has recently released the<strong> pre-installed</strong> in Windows 10 Version 1803.</li>
