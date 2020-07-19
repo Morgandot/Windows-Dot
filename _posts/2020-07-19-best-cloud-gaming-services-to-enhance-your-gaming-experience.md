@@ -12,7 +12,7 @@ published: true
 post_date: 2020-07-19 06:17:15
 ---
 In this post, you will learn about the <strong>Best Cloud Gaming Services to Play Games.</strong>
-<ul>
+<ul class="toc">
  	<li><a href="#1">Cloud Gaming Services</a></li>
  	<li><a href="#2">GeForce Now</a></li>
  	<li><a href="#3">Loudplay Cloud Gaming</a></li>
